@@ -18,11 +18,16 @@ I plan to become a successful front-end developer. Also I interested in web desi
 *   Bootstrap
 
 ## Experience
-So as I'm still studying, i do not have long experience.
-
-*Training Programs:*
+So as I'm still studying, i do not have long experience. But take part in next **Training Programs:**
 * HTML Academy
 * ITVDN
 * Codifun
 
+## Education
+In 2007 I’m finished Kyiv National University of Culture and Arts. I have a Specialist’s diploma as Information computer systems manager.
+I graduated from the Kyev school of photography.
+Also Studied Japanese and Serbian languages.
+
+## English
+I think my level of English is *Intermediate*. I can read texts, but it’s hard for me to speak fluent. Because I'm confused about times and have not rich lexicon. I can understand speaking language if interlocutor doesn’t speak very fast.
 
