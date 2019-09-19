@@ -63,14 +63,14 @@ body {
 }
 
 .contacts a {
-        color: white;
-        text-decoration: none;
-        padding-left: 6px;
-        line-height: 2.5em;
+    color: white;
+    text-decoration: none;
+    padding-left: 6px;
+    line-height: 2.5em;
 }
 
 .contacts a:hover {
-color: black;
+    color: black;
 }
 
 .contacts .fas {
@@ -84,10 +84,10 @@ color: black;
 }
 
 .main-info {
-background-color: white;
-width: 65%;
-padding: 0 3% 1% 3%;
-border-radius: 25px;
+    background-color: white;
+    width: 65%;
+    padding: 0 3% 1% 3%;
+    border-radius: 25px;
 }
 
 .main-info h3 {
@@ -105,12 +105,14 @@ border-radius: 25px;
     margin-top: 10px;
 }
 
-.main-info .fas, .fab {
+.main-info .fas, 
+.fab {
     color: #35879a;
     font-size: 15px;
 }
 
-.skills i, .experience i {
+.skills i, 
+.experience i {
     padding-right: 6px;
 }
 
