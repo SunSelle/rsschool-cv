@@ -1,26 +1,29 @@
 body {
-    background-color: #35879a;
+    background-color: #000000;
     font-family: 'Poppins', sans-serif;
     font-size: 15px; 
 }
 
-.main-block {
+.wrapper {
+    display: flex;
+    justify-content: space-between; 
     width: 1024px;
-    margin: 0 auto;
+    margin: 2% auto;
 }
 
 .left-block {
     width: 30%;
 }
 
-header {
+.sidebar {
     width: 25%;
+    padding-bottom: 20px;
     background-color: #42a8c0;
     border-radius: 25px;
     color: #ffffff;
 }
 
-.main-info {
+.user-info {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -70,7 +73,62 @@ header {
 color: black;
 }
 
-.fas {
+.contacts .fas {
     font-size: 15px;
     color: #ffffff;
+}
+
+.contacts .fab {
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.main-info {
+background-color: white;
+width: 65%;
+padding: 0 3% 1% 3%;
+border-radius: 25px;
+}
+
+.main-info h3 {
+    color: #35879a;
+}
+
+.main-info ul {
+    list-style-type: none;
+    padding-left: 10px;
+    line-height: 1.5em;
+    margin: 0;
+}
+
+.skills ul {
+    margin-top: 10px;
+}
+
+.main-info .fas, .fab {
+    color: #35879a;
+    font-size: 15px;
+}
+
+.skills i, .experience i {
+    padding-right: 6px;
+}
+
+.train-prog {
+    color: #35879a;
+}
+
+.experience .far {
+    color: #35879a;
+    font-size: 15px;
+}
+
+.main-info p {
+    margin-top: 7px;
+    margin-bottom: 10px;
+}
+
+.main-info h3 {
+    margin-bottom: 3px;
+    margin-top: 20px;
 }
